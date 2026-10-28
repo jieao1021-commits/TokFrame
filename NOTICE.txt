@@ -1,0 +1,24 @@
+Third-party notices
+
+Microsoft Edge WebView2
+------------------------
+This application embeds and uses components from the Microsoft Edge WebView2 SDK
+(Microsoft.Web.WebView2.Core.dll, Microsoft.Web.WebView2.WinForms.dll,
+WebView2Loader.dll), copyright (c) Microsoft Corporation.
+
+These components are distributed under the Microsoft Software License Terms for
+the WebView2 SDK. The WebView2 Runtime itself is provided by Microsoft on the
+end-user's system and is not redistributed in this repository.
+
+Microsoft, Windows, and Microsoft Edge are trademarks of Microsoft Corporation.
+
+.NET Framework
+--------------
+Copyright (c) Microsoft Corporation. Windows 10 (1903+) and Windows 11 include
+the .NET Framework runtime required by this application.
+
+Douyin
+------
+Douyin is a service and trademark of ByteDance. This project is an independent
+third-party tool and is not affiliated with, endorsed by, or sponsored by
+ByteDance or Douyin.
